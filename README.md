@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=flat&logo=grafana)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-Wz&show_icons=true&hide_title=true)
+// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richard-Wz&show_icons=true&hide_title=true)
 
 
 I'm a **Network Computing graduate from UNIMAS (FCSIT)** and a prospective **Master’s student**. I created this GitHub profile to **organize and showcase my academic and personal projects**.
