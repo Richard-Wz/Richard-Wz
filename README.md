@@ -1,4 +1,4 @@
-# Hi, I'm Richard 👋
+# Hi there, I'm Richard 👋
 
 I'm a **Network Computing graduate from UNIMAS (FCSIT)** and a prospective **Master’s student**. I created this GitHub profile to **organize and showcase my academic and personal projects**.
 
@@ -43,8 +43,7 @@ My interests lie in **networking systems, backend development, Linux-based envir
 
 ### Specialized Experience
 
-* **Traffic Violation Logging and Penalty Management System**  
-  using **Private Blockchain Framework (Hyperledger Fabric)**  
+* **Traffic Violation Logging and Penalty Management System** using **Private Blockchain Framework (Hyperledger Fabric)**  
   *(Final Year Project)*
 
 ---
