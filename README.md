@@ -8,9 +8,13 @@ My interests lie in **networking systems, backend development, Linux-based envir
 
 ## 🎓 Education
 
-* **Bachelor’s Degree** in Network Computing
+* **Bachelor in Computer Science (Network Computing) with Honours**
   Faculty of Computer Science & Information Technology (FCSIT)
   **Universiti Malaysia Sarawak (UNIMAS)**
+
+## 🏆 Honors & Awards
+- **Anugerah Kecemerlangan Akademik 2025** — Network Computing (UNIMAS)
+- **Dean’s List Award** — 7 Semesters
 
 ---
 
@@ -38,9 +42,11 @@ My interests lie in **networking systems, backend development, Linux-based envir
 
 ### Specialized Experience
 
-* **Private Blockchain Development** using **Hyperledger Fabric**
+* **Traffic Violation Logging and Penalty Management System**
+  using **Private Blockchain Framework (Hyperledger Fabric)**
   *(Final Year Project)*
 
+---
 
 ## 📫 Contact
 
