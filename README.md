@@ -8,8 +8,8 @@ My interests lie in **networking systems, backend development, Linux-based envir
 
 ## 🎓 Education
 
-* **Bachelor in Computer Science (Network Computing) with Honours**
-  Faculty of Computer Science & Information Technology (FCSIT)
+* **Bachelor of Computer Science (Network Computing) with Honours**  
+  Faculty of Computer Science & Information Technology (FCSIT)  
   **Universiti Malaysia Sarawak (UNIMAS)**
 
 ## 🏆 Honors & Awards
@@ -35,15 +35,16 @@ My interests lie in **networking systems, backend development, Linux-based envir
 * MongoDB
 
 ### Systems & Tools
-
-* Linux Operating System & Command Line
+* Linux Operating System & Command Line Tools
+* Bash Scripting
 * Docker (containerization)
+* Monitoring & Observability: Prometheus, Grafana
 * Raspberry Pi
 
 ### Specialized Experience
 
-* **Traffic Violation Logging and Penalty Management System**
-  using **Private Blockchain Framework (Hyperledger Fabric)**
+* **Traffic Violation Logging and Penalty Management System**  
+  using **Private Blockchain Framework (Hyperledger Fabric)**  
   *(Final Year Project)*
 
 ---
