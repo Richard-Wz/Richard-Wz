@@ -11,7 +11,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=flat&logo=grafana)
 
 
-I'm a **Network Computing graduate from UNIMAS (FCSIT)** and a prospective **Master’s student**. I created this GitHub profile to **organize and showcase my academic and personal projects**.
+I'm a **Network Computing graduate from UNIMAS (FCSIT)** and a **Master’s student**. I created this GitHub profile to **organize and showcase my academic and personal projects**.
 
 My interests lie in **networking systems, backend development, Linux-based environments, and emerging technologies**, and I enjoy building practical, system-level projects.
 
